@@ -18,7 +18,7 @@ body {
     max-width: 600px;
     margin: 0 auto;
     text-size-adjust: 20;
-    background: rgb(215, 66, 168);
+    background: gray;
 }
 
 .dropper {
@@ -41,7 +41,7 @@ body {
 .menu {
     max-width: 600px;
     margin: 0 auto;
-    background: rgb(246, 173, 222);
+    background: black;
 }
 
 main {
@@ -53,14 +53,6 @@ main {
     background: rgb(246, 139, 180);
     padding: 10px;
 } 
-
-#output b{
-    color: rgb(218, 40, 168);
-}
-
-#error{
-    color: red;
-}
 */
 
 div {
