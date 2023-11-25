@@ -58,7 +58,7 @@ main {
 div {
     padding: 10px;
     margin: 50px;
-    color: white;
+    color: black;
     text-shadow: 1px 1px 2 px black, 0 0 1em red;
     font: 14pt montserrat;
     border: 2px solid rgb(255, 255, 255);
@@ -67,7 +67,11 @@ div {
 a {
     text-decoration: none;
     color: black;
+}
 
+p {
+    color: black;
+    font: 12pt montserrat;
 }
 
 h1 {
