@@ -1,25 +1,17 @@
 body {
-    background: rgb(246, 224, 232);
+    background: gray;
 }
 
 .wrapper {
     max-width: 600px;
     margin: 0 auto;
-    background: rgb(255, 221, 244);
-}
-
-#output b{
-    color: rgb(218, 40, 168);
-}
-
-#error{
-    color: red;
+    background: black;
 }
 
 .ownerframe {
     max-width: 600px;
     margin: 0 auto;
-    background: rgb(224, 121, 191);
+    background: white;
 }
 
 .head {
@@ -29,25 +21,15 @@ body {
     background: rgb(215, 66, 168);
 }
 
-.articles {
-    position: sticky;
-    right: 50%;
-}
-
-.calendar {
-    position: sticky;
-    right: 50%;
-}
-
 .dropper {
     max-width: 600px;
     margin: 0 auto;
-    background: rgb(215, 66, 168);
+    background: black;
 }
 
 .header {
     text-align: center;
-    background: rgb(246, 173, 222);
+    background: gray;
     padding: 10px;
 }
 
@@ -63,14 +45,23 @@ body {
 }
 
 main {
-    background: rgb(248, 220, 240);
+    background: gray;
     padding: 10px;
 }
 
 /* nav {
     background: rgb(246, 139, 180);
     padding: 10px;
-} */
+} 
+
+#output b{
+    color: rgb(218, 40, 168);
+}
+
+#error{
+    color: red;
+}
+*/
 
 div {
     padding: 10px;
@@ -94,7 +85,7 @@ h1 {
 }
 
 nav a {
-    background: rgb(244, 117, 227);
+    background: gray;
     padding: 2px;
     color: white;
     border-radius: 5px;
@@ -102,5 +93,5 @@ nav a {
 }
 
 nav a:hover {
-    background: rgb(174, 39, 122);
+    background: gray;
 }
